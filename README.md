@@ -1,9 +1,11 @@
 # E-commerceSales-Analysis
 
+![a68f881f-e226-463f-9d7a-cd839d2953df](https://github.com/NathanMureithi18/E-commerceSales--Analysis-/assets/156500298/d1e592d1-6d89-4e3f-a75f-7edeb39e0487)
 ## Table of Contents
 
  - [Project Overview](#project-overview)
  - [Data Sources](#data-sources)
+
  - [Exploratory Data Analysis](#exploratory-data-analysis)
  - [Recommendations](#recommendations)
 
@@ -54,7 +56,7 @@ Based on the Analysis, We recommend the following actions:
  - Focus on expanding and promoting products in Office supplies category.
  - Implement a customer segmentation strategy to target the high-LIV customerss effectively.
 
-### Limmitation
+### Limitation
 
 I had to remove alll the Zero values from the columns because they would have affected the accuracy of my conclusion from the analysis.
 
