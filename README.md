@@ -1,6 +1,9 @@
 # E-commerceSales-Analysis
 
 ![a68f881f-e226-463f-9d7a-cd839d2953df](https://github.com/NathanMureithi18/E-commerceSales--Analysis-/assets/156500298/d1e592d1-6d89-4e3f-a75f-7edeb39e0487)
+
+Click here to intract with the [dashboard](https://public.tableau.com/app/profile/nathaniel.kamau/viz/E-COMMERCEFULLPROJECT/salesovervew?publish=yes)
+
 ## Table of Contents
 
  - [Project Overview](#project-overview)
